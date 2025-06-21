@@ -1,2 +1,3 @@
-# Printrestplugin
+# Pintrestplugin
 Anastasiia's Printrest
+# Installation
